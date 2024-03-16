@@ -30,3 +30,4 @@ compare-object (get-content my_output_file) (get-content your_output_file)
 ### HW01
 
 **3/15** Upload hw0101 test program.(not sure about the correctness)
+**3/16** Rewrite hw0101 test program.(but still not check the correctness)
