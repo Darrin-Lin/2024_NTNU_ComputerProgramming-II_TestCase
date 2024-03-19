@@ -19,6 +19,11 @@ diff my_output_file your_output_file
 compare-object (get-content my_output_file) (get-content your_output_file)
 ```
 
+### Discord Bot for CP2
+```link
+https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot
+```
+
 ### Easy tutorial
 
 [Link](https://hackmd.io/@vUfMCtPkSZewQjrjIwuJgg/HyiJvee-p)
