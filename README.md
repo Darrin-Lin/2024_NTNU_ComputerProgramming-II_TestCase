@@ -20,8 +20,11 @@ compare-object (get-content my_output_file) (get-content your_output_file)
 ```
 
 ### Discord Bot for CP2
-```link
-https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot
+[Link](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)
+```
+用來測試答案的機器人
+不保證答案正確，已經過助教同意
+使用方法或語法請詳閱機器人的個人介紹內的HackMD
 ```
 
 ### Easy tutorial
