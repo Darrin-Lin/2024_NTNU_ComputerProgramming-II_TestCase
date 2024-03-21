@@ -81,6 +81,11 @@ int main()
             scanf("%s", c3);
             compC = mystrpbrk(input, c3);
             compS = strpbrk(inputcpy, c3);
+            if (compC == NULL && compS == NULL)
+            {
+                printf("true\n");
+                break;
+            }
             for (size_t i = 0; i < strlen(compC); i++)
             {
                 printf("%d", compC[i] == compS[i]);
