@@ -1,0 +1,13 @@
+pResult.size = 6
+pResult.pPowers[0] = 81639
+pResult.pCoefficients[0] = 50290240
+pResult.pPowers[1] = 76779
+pResult.pCoefficients[1] = 94592960
+pResult.pPowers[2] = 71919
+pResult.pCoefficients[2] = 44302720
+pResult.pPowers[3] = 51900
+pResult.pCoefficients[3] = 63942032
+pResult.pPowers[4] = 47040
+pResult.pCoefficients[4] = 57954512
+pResult.pPowers[5] = 22161
+pResult.pCoefficients[5] = 13651792

@@ -1,0 +1,15 @@
+pResult.size = 7
+pResult.pPowers[0] = 11
+pResult.pCoefficients[0] = -66000
+pResult.pPowers[1] = 8
+pResult.pCoefficients[1] = -267300
+pResult.pPowers[2] = 7
+pResult.pCoefficients[2] = 2200
+pResult.pPowers[3] = 5
+pResult.pCoefficients[3] = -320760
+pResult.pPowers[4] = 4
+pResult.pCoefficients[4] = 4950
+pResult.pPowers[5] = 2
+pResult.pCoefficients[5] = -96228
+pResult.pPowers[6] = 1
+pResult.pCoefficients[6] = 1782
