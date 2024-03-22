@@ -17,6 +17,10 @@ diff my_output_file your_output_file
 ### Windows CMD
 ```shell
 hw0x0x.exe <input_file> output_file
+FC output_file my_output_file
+```
+### Windows PowerShell
+```shell
 compare-object (get-content my_output_file) (get-content your_output_file)
 ```
 
