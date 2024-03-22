@@ -2,11 +2,11 @@
 
 int main()
 {
-    sPoly pFy; 
+    sPoly pFy;
     sPoly pFx;
     sPoly pResult;
-    int32_t y_size = 0;
-    int32_t x_size = 0;
+    uint32_t y_size = 0;
+    uint32_t x_size = 0;
     scanf("%d", &y_size);
     pFy.size = y_size;
     scanf("%d", &x_size);
@@ -15,19 +15,19 @@ int main()
     pFy.pCoefficients = (int32_t *)malloc(y_size * sizeof(int32_t));
     pFx.pPowers = (uint32_t *)malloc(x_size * sizeof(uint32_t));
     pFx.pCoefficients = (int32_t *)malloc(x_size * sizeof(int32_t));
-    for(uint32_t i = 0; i < y_size; i++)
+    for (uint32_t i = 0; i < y_size; i++)
     {
         scanf("%d", &pFy.pPowers[i]);
     }
-    for(uint32_t i = 0; i < y_size; i++)
+    for (uint32_t i = 0; i < y_size; i++)
     {
         scanf("%d", &pFy.pCoefficients[i]);
     }
-    for(uint32_t i = 0; i < x_size; i++)
+    for (uint32_t i = 0; i < x_size; i++)
     {
         scanf("%d", &pFx.pPowers[i]);
     }
-    for(uint32_t i = 0; i < x_size; i++)
+    for (uint32_t i = 0; i < x_size; i++)
     {
         scanf("%d", &pFx.pCoefficients[i]);
     }
