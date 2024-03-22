@@ -44,3 +44,5 @@ compare-object (get-content my_output_file) (get-content your_output_file)
 **3/18** Rewrite hw0101 test program.(also still don't check)
 
 **3/21** Upload hw0101 hw0102 hw0103 test program.
+
+**3/22** Upload hw0102 test cases.
