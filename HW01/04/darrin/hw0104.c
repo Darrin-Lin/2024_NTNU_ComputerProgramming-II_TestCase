@@ -17,7 +17,10 @@ int main()
         }
     }
     sPath result;
-    printf("return: %d\n",find_min_path(inp,row,col,&result));
+    result.pPath = NULL;
+    result.length = 0;
+    result.cost = 0;
+    printf("return: %d\n",find_min_path(&(inp[0][0]),row,col,&result));
     printf("cost:%d length:%d\n\n",result.cost,result.length);
     for(uint32_t i=0;i<result.length;i++)
     {
