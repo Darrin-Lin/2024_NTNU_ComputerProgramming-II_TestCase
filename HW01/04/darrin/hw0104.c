@@ -1,18 +1,18 @@
 #include "mymaze.h"
 int main()
 {
-    uint8_t row = 0, col = 0;
-    scanf("%hhu", &row);
-    scanf("%hhu", &col);
+    int32_t row = 0, col = 0;
+    scanf("%d", &row);
+    scanf("%d", &col);
     sRoom inp[row][col];
-    for (uint8_t i = 0; i < row; i++)
+    for (int32_t i = 0; i < row; i++)
     {
-        for (uint8_t j = 0; j < col; j++)
+        for (int32_t j = 0; j < col; j++)
         {
             scanf("%u", &inp[i][j].cost);
             // input doors in four sides
-            uint8_t up, right, down, left;
-            scanf("%hhu %hhu %hhu %hhu", &up, &right, &down, &left);
+            int32_t up, right, down, left;
+            scanf("%d %d %d %d", &up, &right, &down, &left);
             inp[i][j].doors = (up << 6) | (right << 4) | (down << 2) | left;
         }
     }
