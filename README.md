@@ -51,3 +51,5 @@ compare-object (get-content my_output_file) (get-content your_output_file)
 **3/21** Upload hw0101 hw0102 hw0103 test program.
 
 **3/22** Upload hw0101 hw0102 hw0103 test cases.
+
+**3/23** Upload hw0104 test program.
