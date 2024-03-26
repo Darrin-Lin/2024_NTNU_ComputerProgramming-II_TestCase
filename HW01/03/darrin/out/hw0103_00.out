@@ -1,9 +1,5 @@
-pResult.size = 4
-pResult.pPowers[0] = 7
-pResult.pCoefficients[0] = -8200
-pResult.pPowers[1] = 5
-pResult.pCoefficients[1] = 24600
-pResult.pPowers[2] = 3
-pResult.pCoefficients[2] = -16400
-pResult.pPowers[3] = 0
-pResult.pCoefficients[3] = -52
+pResult.size = 2
+pResult.pPowers[0] = 2
+pResult.pCoefficients[0] = 486
+pResult.pPowers[1] = 0
+pResult.pCoefficients[1] = 324

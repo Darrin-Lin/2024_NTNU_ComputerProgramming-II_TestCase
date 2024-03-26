@@ -1,13 +1,5 @@
-pResult.size = 6
-pResult.pPowers[0] = 8
-pResult.pCoefficients[0] = -12168000
+pResult.size = 2
+pResult.pPowers[0] = 11
+pResult.pCoefficients[0] = -36288
 pResult.pPowers[1] = 7
-pResult.pCoefficients[1] = 6489600
-pResult.pPowers[2] = 6
-pResult.pCoefficients[2] = -1135680
-pResult.pPowers[3] = 5
-pResult.pCoefficients[3] = 254496
-pResult.pPowers[4] = 4
-pResult.pCoefficients[4] = -63200
-pResult.pPowers[5] = 3
-pResult.pCoefficients[5] = 5056
+pResult.pCoefficients[1] = 11520
