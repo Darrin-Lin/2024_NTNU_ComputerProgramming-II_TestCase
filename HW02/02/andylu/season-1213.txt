@@ -1,0 +1,21 @@
+    Team              W    D    L    GF    GA    GD    Pts
+01) Man United        27   5    5    83    41    +42    86
+02) Man City          23   9    6    66    34    +32    78
+03) Chelsea           22   9    7    75    39    +36    75
+04) Arsenal           21   10   7    72    37    +35    73
+05) Tottenham         21   9    8    66    46    +20    72
+06) Everton           16   15   7    55    40    +15    63
+07) Liverpool         16   13   9    71    43    +28    61
+08) West Brom         14   7    17   53    57    -4     49
+09) West Ham          12   10   16   45    53    -8     46
+10) Swansea           11   13   14   47    51    -4     46
+11) Norwich           10   14   14   41    58    -17    44
+12) Fulham            11   10   17   50    60    -10    43
+13) Stoke             9    15   14   34    45    -11    42
+14) Newcastle         11   8    19   45    68    -23    41
+15) Aston Villa       10   11   17   47    69    -22    41
+16) Southampton       9    14   15   49    60    -11    41
+17) Sunderland        9    12   17   41    54    -13    39
+18) Wigan             9    9    20   47    73    -26    36
+19) Reading           6    10   22   43    73    -30    28
+20) QPR               4    13   21   30    60    -30    25
